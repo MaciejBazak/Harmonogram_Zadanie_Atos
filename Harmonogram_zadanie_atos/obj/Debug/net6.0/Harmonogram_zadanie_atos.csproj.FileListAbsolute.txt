@@ -1,0 +1,15 @@
+C:\Users\Maciej\Desktop\Zadanie Atos\Harmonogram_zadanie_atos\bin\Debug\net6.0\Harmonogram_zadanie_atos.exe
+C:\Users\Maciej\Desktop\Zadanie Atos\Harmonogram_zadanie_atos\bin\Debug\net6.0\Harmonogram_zadanie_atos.deps.json
+C:\Users\Maciej\Desktop\Zadanie Atos\Harmonogram_zadanie_atos\bin\Debug\net6.0\Harmonogram_zadanie_atos.runtimeconfig.json
+C:\Users\Maciej\Desktop\Zadanie Atos\Harmonogram_zadanie_atos\bin\Debug\net6.0\Harmonogram_zadanie_atos.dll
+C:\Users\Maciej\Desktop\Zadanie Atos\Harmonogram_zadanie_atos\bin\Debug\net6.0\Harmonogram_zadanie_atos.pdb
+C:\Users\Maciej\Desktop\Zadanie Atos\Harmonogram_zadanie_atos\obj\Debug\net6.0\Harmonogram_zadanie_atos.csproj.AssemblyReference.cache
+C:\Users\Maciej\Desktop\Zadanie Atos\Harmonogram_zadanie_atos\obj\Debug\net6.0\Harmonogram_zadanie_atos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciej\Desktop\Zadanie Atos\Harmonogram_zadanie_atos\obj\Debug\net6.0\Harmonogram_zadanie_atos.AssemblyInfoInputs.cache
+C:\Users\Maciej\Desktop\Zadanie Atos\Harmonogram_zadanie_atos\obj\Debug\net6.0\Harmonogram_zadanie_atos.AssemblyInfo.cs
+C:\Users\Maciej\Desktop\Zadanie Atos\Harmonogram_zadanie_atos\obj\Debug\net6.0\Harmonogram_zadanie_atos.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\Desktop\Zadanie Atos\Harmonogram_zadanie_atos\obj\Debug\net6.0\Harmonogram_zadanie_atos.dll
+C:\Users\Maciej\Desktop\Zadanie Atos\Harmonogram_zadanie_atos\obj\Debug\net6.0\refint\Harmonogram_zadanie_atos.dll
+C:\Users\Maciej\Desktop\Zadanie Atos\Harmonogram_zadanie_atos\obj\Debug\net6.0\Harmonogram_zadanie_atos.pdb
+C:\Users\Maciej\Desktop\Zadanie Atos\Harmonogram_zadanie_atos\obj\Debug\net6.0\Harmonogram_zadanie_atos.genruntimeconfig.cache
+C:\Users\Maciej\Desktop\Zadanie Atos\Harmonogram_zadanie_atos\obj\Debug\net6.0\ref\Harmonogram_zadanie_atos.dll

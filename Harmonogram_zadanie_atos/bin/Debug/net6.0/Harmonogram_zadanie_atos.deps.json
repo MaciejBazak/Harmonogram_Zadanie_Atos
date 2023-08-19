@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Harmonogram_zadanie_atos/1.0.0": {
+        "runtime": {
+          "Harmonogram_zadanie_atos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Harmonogram_zadanie_atos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
