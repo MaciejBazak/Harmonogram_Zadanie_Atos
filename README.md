@@ -41,4 +41,5 @@ Pierwsza niedziela miesiąca wybierana jest za pomocą konsoli lub za pomocą tw
 
 Gdy stworzony zostaje harmonogram zastosowane są odpowiednie funkcje które, sprawdzają czy suma przepracowanych godzin jest większa niż 8h*liczba dni roboczych. Czy zostałą zaplanowana praca w niedzielę. Ile w sumie wynosi i czy została zaplanowana praca w nadgodzinach oraz czy istnieje dłuższa niż 11h przerwa między rozpoczęciem i zakończeniem pracy kolejnego dnia. 
 
+
 By "odpalić" program wystarczy załadować solution w Visual Studio, wcisnąć build all i włączyć "HarmonogramOperator"
