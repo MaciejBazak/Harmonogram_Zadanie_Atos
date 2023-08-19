@@ -35,7 +35,7 @@ Zadanie przyjmuje taki format danych :
 31 7
  
 
-Pierwsza wartość to dzień miesiąca, w podanym wypadku jest to od 1 do 31, druga wartość natomiast to liczba przepracowanych godzin tego dnia. Na readme w postaci oglądowej nie wygląda to odpowiednio dobrze. Ma wyglądać tak jak na tym zdjęciu https://postimg.cc/WhJyb8yn
+Pierwsza wartość to dzień miesiąca, w podanym wypadku jest to od 1 do 31, druga wartość natomiast to liczba przepracowanych godzin tego dnia. Na readme w postaci oglądowej nie wygląda to odpowiednio dobrze. Ma wyglądać tak jak na tym zdjęciu https://postimg.cc/2LL0yj06/8915b7bc
 W podanym wypadku jest to liczba losowana od 4 do 8. 
 Pierwsza niedziela miesiąca wybierana jest za pomocą konsoli lub za pomocą tworzenia klasy harmonogram.
 
